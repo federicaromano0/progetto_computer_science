@@ -1,2 +1,2 @@
-# progetto_computer_science
+# Progetto Computer Science
 
